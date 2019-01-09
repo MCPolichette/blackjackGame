@@ -1,0 +1,314 @@
+[
+    {
+        "cardTitle": "Ace of Spades",
+        "value": 11,
+        "img": "AS",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Two of Spades",
+        "value": 2,
+        "img": " 2S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Three of Spades",
+        "value": 3,
+        "img": " 3S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Four of Spades",
+        "value": 4,
+        "img": " 4S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Five of Spades",
+        "value": 5,
+        "img": " 5S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Six of Spades",
+        "value": 6,
+        "img": " 6S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Seven of Spades",
+        "value": 7,
+        "img": " 7S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Eight of Spades",
+        "value": 8,
+        "img": " 8S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Nine of Spades",
+        "value": 9,
+        "img": " 9S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Ten of Spades",
+        "value": 10,
+        "img": "10S",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Jack of Spades",
+        "value": 10,
+        "img": "JS",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Queen of Spades",
+        "value": 10,
+        "img": "QS",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "King of Spades",
+        "value": 10,
+        "img": "KS",
+        "suit": "Spades"
+    },
+    {
+        "cardTitle": "Ace of Clubs",
+        "value": 11,
+        "img": "AC",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Two of Clubs",
+        "value": 2,
+        "img": " 2C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Three of Clubs",
+        "value": 3,
+        "img": " 3C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Four of Clubs",
+        "value": 4,
+        "img": " 4C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Five of Clubs",
+        "value": 5,
+        "img": " 5C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Six of Clubs",
+        "value": 6,
+        "img": " 6C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Seven of Clubs",
+        "value": 7,
+        "img": " 7C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Eight of Clubs",
+        "value": 8,
+        "img": " 8C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Nine of Clubs",
+        "value": 9,
+        "img": " 9C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Ten of Clubs",
+        "value": 10,
+        "img": "10C",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Jack of Clubs",
+        "value": 10,
+        "img": "JC",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Queen of Clubs",
+        "value": 10,
+        "img": "QC",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "King of Clubs",
+        "value": 10,
+        "img": "KC",
+        "suit": "Clubs"
+    },
+    {
+        "cardTitle": "Ace of Hearts",
+        "value": 11,
+        "img": "AH",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Two of Hearts",
+        "value": 2,
+        "img": " 2H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Three of Hearts",
+        "value": 3,
+        "img": " 3H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Four of Hearts",
+        "value": 4,
+        "img": " 4H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Five of Hearts",
+        "value": 5,
+        "img": " 5H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Six of Hearts",
+        "value": 6,
+        "img": " 6H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Seven of Hearts",
+        "value": 7,
+        "img": " 7H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Eight of Hearts",
+        "value": 8,
+        "img": " 8H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Nine of Hearts",
+        "value": 9,
+        "img": " 9H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Ten of Hearts",
+        "value": 10,
+        "img": "10H",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Jack of Hearts",
+        "value": 10,
+        "img": "JH",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Queen of Hearts",
+        "value": 10,
+        "img": "QH",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "King of Hearts",
+        "value": 10,
+        "img": "KH",
+        "suit": "Hearts"
+    },
+    {
+        "cardTitle": "Ace of Diamonds",
+        "value": 11,
+        "img": "AD",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Two of Diamonds",
+        "value": 2,
+        "img": " 2D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Three of Diamonds",
+        "value": 3,
+        "img": " 3D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Four of Diamonds",
+        "value": 4,
+        "img": " 4D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Five of Diamonds",
+        "value": 5,
+        "img": " 5D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Six of Diamonds",
+        "value": 6,
+        "img": " 6D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Seven of Diamonds",
+        "value": 7,
+        "img": " 7D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Eight of Diamonds",
+        "value": 8,
+        "img": " 8D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Nine of Diamonds",
+        "value": 9,
+        "img": " 9D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Ten of Diamonds",
+        "value": 10,
+        "img": "10D",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Jack of Diamonds",
+        "value": 10,
+        "img": "JD",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "Queen of Diamonds",
+        "value": 10,
+        "img": "QD",
+        "suit": "Diamonds"
+    },
+    {
+        "cardTitle": "King of Diamonds",
+        "value": 10,
+        "img": "KD",
+        "suit": "Diamonds"
+    }
+]
